@@ -1,0 +1,10 @@
+C:\Users\esene\source\repos\CapsLock\CapsLock\bin\Debug\CapsLock.exe.config
+C:\Users\esene\source\repos\CapsLock\CapsLock\bin\Debug\CapsLock.exe
+C:\Users\esene\source\repos\CapsLock\CapsLock\bin\Debug\CapsLock.pdb
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.csprojAssemblyReference.cache
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.CapsLock.resources
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.Properties.Resources.resources
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.csproj.GenerateResource.cache
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.csproj.CoreCompileInputs.cache
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.exe
+C:\Users\esene\source\repos\CapsLock\CapsLock\obj\Debug\CapsLock.pdb
